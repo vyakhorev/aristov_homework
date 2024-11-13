@@ -5,9 +5,15 @@ Based on PostgreSQL course from https://aristov.tech/
 
 # Homework 1
 
+Setup in wsl and load data
+
 [homework1.md](homework1.md)
 
 # Homework 2
+
+Transaction isolation levels experiment
+
+[homework2.md](homework2.md)
 
 # Homework 3
 
